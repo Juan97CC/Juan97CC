@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan
 
-I'm an **Ontario Tech University Computer Science graduate** specializing in **backend development**,  
+I'm an **Ontario Tech University Computer Science Graduate** specializing in **backend development**,  
 **full-stack applications**, and **data-driven systems**. I enjoy building real production-style projects —  
 from REST APIs and authentication systems to WebSocket servers and machine learning classifiers.
 
@@ -56,4 +56,4 @@ and real-time visualization.
 ## 📫 Connect With Me
 
 **LinkedIn:** https://linkedin.com/in/juan-consuegra
-**GitHub:** https://github.com/Juan97CC
+
