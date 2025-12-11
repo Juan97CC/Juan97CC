@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Juan
 
 I'm an **Ontario Tech University Computer Science Graduate** specializing in
-**full-stack applications**, and **data-driven systems**. I enjoy building real production-style projects —  
-from REST APIs and authentication systems to WebSocket servers and machine learning classifiers.
+**full-stack applications**, and **data-driven systems**.
+I enjoy building real production-style projects — from REST APIs and authentication systems to WebSocket servers and machine learning classifiers.
 
 ---
 
