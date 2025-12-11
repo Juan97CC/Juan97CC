@@ -36,7 +36,7 @@ and real-time visualization.
 
 ---
 
-## 🌱 Currently Improving
+## 🧠 Currently Exploring
 
 - Scalable backend architecture  
 - API performance & reliability  
