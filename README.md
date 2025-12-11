@@ -22,17 +22,17 @@ from REST APIs and authentication systems to WebSocket servers and machine learn
 ### 🔐 User Management Application  
 A full-stack platform with secure authentication, CRUD operations, and a responsive UI built with  
 **Node.js, Express, MongoDB**.  
-**GitHub:** _add link once ready_
+
 
 ### 💬 WebSocket Chat Server  
 A real-time messaging system built with **Java + Jakarta EE WebSockets**, supporting dynamic rooms  
 and fast, persistent message broadcasting.  
-**GitHub:** _add link once ready_
+
 
 ### 📨 Spam Email Classifier  
 Developed a **Naive Bayes classifier** to detect spam vs. ham emails with accuracy metrics  
 and real-time visualization.  
-**GitHub:** _add link once ready_
+
 
 ---
 
